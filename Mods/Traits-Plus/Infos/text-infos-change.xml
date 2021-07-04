@@ -85,4 +85,24 @@
 		<zType>TEXT_TRAIT_MONOTONOUS_NICKNAME</zType>
 		<Translation>der Eintönige</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORDERLY_NICKNAME</zType>
+		<Translation>der Ordentliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MESSY_NICKNAME</zType>
+		<Translation>der Unordentliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CANTANKEROUS_NICKNAME</zType>
+		<Translation>der Streitsüchtige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMMATURE_NICKNAME</zType>
+		<Translation>der Kindische</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DESPICABLE_NICKNAME</zType>
+		<Translation>der Verabscheuungswürdige</Translation>
+	</Entry>
 </Root>

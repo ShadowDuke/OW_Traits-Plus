@@ -137,6 +137,10 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_ORDERLY</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_MULTIFACETED</zIndex>
 				<iValue>5</iValue>
 			</Pair>
@@ -356,6 +360,10 @@
 			</Pair>
 		</aiRatingRand>
 		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_ORDERLY</zIndex>
+				<iValue>5</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>TRAIT_MULTIFACETED</zIndex>
 				<iValue>5</iValue>

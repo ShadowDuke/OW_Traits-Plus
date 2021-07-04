@@ -85,4 +85,24 @@
 		<zType>TEXT_EFFECTCITY_TRAIT_MONOTONOUS_ALL</zType>
 		<English>link(TRAIT_MONOTONOUS) Leader</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_ORDERLY_ALL</zType>
+		<English>link(TRAIT_ORDERLY) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MESSY_ALL</zType>
+		<English>link(TRAIT_MESSY) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CANTANKEROUS_ALL</zType>
+		<English>link(TRAIT_CANTANKEROUS) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_IMMATURE_ALL</zType>
+		<English>link(TRAIT_IMMATURE) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DESPICABLE_ALL</zType>
+		<English>link(TRAIT_DESPICABLE) Leader</English>
+	</Entry>
 </Root>

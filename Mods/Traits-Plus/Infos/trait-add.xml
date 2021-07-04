@@ -609,7 +609,7 @@
 		</aiTraitOpinion>
 		<aeTraitInvalid>
 			<zValue>TRAIT_AFFABLE</zValue>
-		</aeTraitInvalid>
+		</aeTraitInvalid>		
 	</Entry>
 	<Entry>
 		<zType>TRAIT_INCORRUPTIBLE</zType>
@@ -650,6 +650,9 @@
 		<aeTraitInvalid>
 			<zValue>TRAIT_CORRUPT</zValue>
 		</aeTraitInvalid>
+		<aePositiveRating>
+			<zValue>RATING_DISCIPLINE</zValue>
+		</aePositiveRating>
 	</Entry>
 	<Entry>
 		<zType>TRAIT_MULTIFACETED</zType>
@@ -738,5 +741,186 @@
 		<aeTraitInvalid>
 			<zValue>TRAIT_MULTIFACETED</zValue>
 		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_ORDERLY</zType>
+		<Name>TEXT_TRAIT_ORDERLY</Name>
+		<Nickname>TEXT_TRAIT_ORDERLY_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_ORDERLY_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_ORDERLY_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>18</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>20</iOpinionSame>
+		<bStrength>1</bStrength>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_ORDERLY</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_ORDERLY</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_MESSY</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_MESSY</zValue>
+		</aeTraitInvalid>
+		<aePositiveRating>
+			<zValue>RATING_DISCIPLINE</zValue>
+		</aePositiveRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MESSY</zType>
+		<Name>TEXT_TRAIT_MESSY</Name>
+		<Nickname>TEXT_TRAIT_MESSY_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_MESSY_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_MESSY_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>18</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_MESSY</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_MESSY</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_ORDERLY</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_ORDERLY</zValue>
+		</aeTraitInvalid>
+		<aeNegativeRating>
+			<zValue>RATING_CHARISMA</zValue>
+		</aeNegativeRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_CANTANKEROUS</zType>
+		<Name>TEXT_TRAIT_CANTANKEROUS</Name>
+		<Nickname>TEXT_TRAIT_CANTANKEROUS_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_CANTANKEROUS_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_CANTANKEROUS_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>13</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_CANTANKEROUS</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_CANTANKEROUS</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_CONCILIATORY</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_CONCILIATORY</zValue>
+		</aeTraitInvalid>
+		<aeNegativeRating>
+			<zValue>RATING_DISCIPLINE</zValue>
+		</aeNegativeRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_IMMATURE</zType>
+		<Name>TEXT_TRAIT_IMMATURE</Name>
+		<Nickname>TEXT_TRAIT_IMMATURE_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_IMMATURE_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_IMMATURE_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>17</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_IMMATURE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_IMMATURE</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-2</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_CALM</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_CALM</zValue>
+		</aeTraitInvalid>
+		<aeNegativeRating>
+			<zValue>RATING_DISCIPLINE</zValue>
+			<zValue>RATING_CHARISMA</zValue>
+		</aeNegativeRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DESPICABLE</zType>
+		<Name>TEXT_TRAIT_DESPICABLE</Name>
+		<Nickname>TEXT_TRAIT_DESPICABLE_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_DESPICABLE_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_DESPICABLE_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>21</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DESPICABLE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_DESPICABLE</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_COMPASSIONATE</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_COMPASSIONATE</zValue>
+		</aeTraitInvalid>
+		<aeNegativeRating>
+			<zValue>RATING_DISCIPLINE</zValue>
+			<zValue>RATING_CHARISMA</zValue>
+		</aeNegativeRating>
 	</Entry>
 </Root>

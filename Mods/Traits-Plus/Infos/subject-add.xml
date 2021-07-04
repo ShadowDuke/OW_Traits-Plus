@@ -337,4 +337,84 @@
 			<zValue>TRAIT_</zValue>
 		</aeTraitNone>	-->
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_ORDERLY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_ORDERLY</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_ORDERLY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_ORDERLY</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MESSY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MESSY</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_MESSY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_MESSY</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CANTANKEROUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CANTANKEROUS</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_CANTANKEROUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_CANTANKEROUS</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_IMMATURE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_IMMATURE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_IMMATURE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_IMMATURE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_DESPICABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_DESPICABLE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_DESPICABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_DESPICABLE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
 </Root>

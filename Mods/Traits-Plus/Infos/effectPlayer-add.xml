@@ -18,18 +18,21 @@
 		<Name>TEXT_TRAIT_INDEPENDENT</Name>
 		<SourceTrait>TRAIT_INDEPENDENT</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_INDEPENDENT_ALL</EffectCity>
+		<iReligionOpinionChange>-20</iReligionOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_SELFISH</zType>
 		<Name>TEXT_TRAIT_SELFISH</Name>
 		<SourceTrait>TRAIT_SELFISH</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_SELFISH_ALL</EffectCity>
+		<iFamilyOpinionChange>-10</iFamilyOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_RESPONSIBLE</zType>
 		<Name>TEXT_TRAIT_RESPONSIBLE</Name>
 		<SourceTrait>TRAIT_RESPONSIBLE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_RESPONSIBLE_ALL</EffectCity>
+		<iFamilyOpinionChange>5</iFamilyOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_ORDERS</zIndex>
@@ -48,18 +51,21 @@
 		<Name>TEXT_TRAIT_UGLY</Name>
 		<SourceTrait>TRAIT_UGLY</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_UGLY_ALL</EffectCity>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_PRETTY</zType>
 		<Name>TEXT_TRAIT_PRETTY</Name>
 		<SourceTrait>TRAIT_PRETTY</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_PRETTY_ALL</EffectCity>
+		<iLeaderOpinionChange>10</iLeaderOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_SHORT</zType>
 		<Name>TEXT_TRAIT_SHORT</Name>
 		<SourceTrait>TRAIT_SHORT</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_SHORT_ALL</EffectCity>
+		<iLeaderOpinionChange>-5</iLeaderOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
@@ -72,6 +78,7 @@
 		<Name>TEXT_TRAIT_PRIM</Name>
 		<SourceTrait>TRAIT_PRIM</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_PRIM_ALL</EffectCity>
+		<iReligionOpinionChange>25</iReligionOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_IMAGINATIVE</zType>
@@ -84,6 +91,7 @@
 		<Name>TEXT_TRAIT_RENOWNED</Name>
 		<SourceTrait>TRAIT_RENOWNED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_RENOWNED_ALL</EffectCity>
+		<iLeaderOpinionChange>15</iLeaderOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
@@ -96,6 +104,7 @@
 		<Name>TEXT_TRAIT_CONCEITED</Name>
 		<SourceTrait>TRAIT_CONCEITED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_CONCEITED_ALL</EffectCity>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>
@@ -108,6 +117,7 @@
 		<Name>TEXT_TRAIT_CONCILIATORY</Name>
 		<SourceTrait>TRAIT_CONCILIATORY</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_CONCILIATORY_ALL</EffectCity>
+		<iFamilyOpinionChange>5</iFamilyOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -120,6 +130,7 @@
 		<Name>TEXT_TRAIT_CULTURED</Name>
 		<SourceTrait>TRAIT_CULTURED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_CULTURED_ALL</EffectCity>
+		<iLeaderOpinionChange>5</iLeaderOpinionChange>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_DRAMATIC</zType>
@@ -132,6 +143,7 @@
 		<Name>TEXT_TRAIT_FARSIGHTED</Name>
 		<SourceTrait>TRAIT_FARSIGHTED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_FARSIGHTED_ALL</EffectCity>
+		<iLeaderOpinionChange>5</iLeaderOpinionChange>
 		<aiMilitaryKillYield>
 			<Pair>
 				<zIndex>YIELD_TRAINING</zIndex>
@@ -144,12 +156,15 @@
 		<Name>TEXT_TRAIT_OUTSIDER</Name>
 		<SourceTrait>TRAIT_OUTSIDER</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_OUTSIDER_ALL</EffectCity>
+		<iReligionOpinionChange>-5</iReligionOpinionChange>
+		<iFamilyOpinionChange>-5</iFamilyOpinionChange>		
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_INCORRUPTIBLE</zType>
 		<Name>TEXT_TRAIT_INCORRUPTIBLE</Name>
 		<SourceTrait>TRAIT_INCORRUPTIBLE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</EffectCity>
+		<iReligionOpinionChange>15</iReligionOpinionChange>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -168,5 +183,38 @@
 		<Name>TEXT_TRAIT_MONOTONOUS</Name>
 		<SourceTrait>TRAIT_MONOTONOUS</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_MONOTONOUS_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_ORDERLY</zType>
+		<Name>TEXT_TRAIT_ORDERLY</Name>
+		<SourceTrait>TRAIT_ORDERLY</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_ORDERLY_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_MESSY</zType>
+		<Name>TEXT_TRAIT_MESSY</Name>
+		<SourceTrait>TRAIT_MESSY</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_MESSY_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CANTANKEROUS</zType>
+		<Name>TEXT_TRAIT_CANTANKEROUS</Name>
+		<SourceTrait>TRAIT_CANTANKEROUS</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_CANTANKEROUS_ALL</EffectCity>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_IMMATURE</zType>
+		<Name>TEXT_TRAIT_IMMATURE</Name>
+		<SourceTrait>TRAIT_IMMATURE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_IMMATURE_ALL</EffectCity>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_DESPICABLE</zType>
+		<Name>TEXT_TRAIT_DESPICABLE</Name>
+		<SourceTrait>TRAIT_DESPICABLE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_DESPICABLE_ALL</EffectCity>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
 	</Entry>
 </Root>

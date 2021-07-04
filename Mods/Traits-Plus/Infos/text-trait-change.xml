@@ -253,4 +253,64 @@
 		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_2</zType>
 		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORDERLY</zType>
+		<Translation>Ordentlich</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORDERLY_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_ORDERLY_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MESSY</zType>
+		<Translation>Unordentlich</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MESSY_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MESSY_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CANTANKEROUS</zType>
+		<Translation>Streitsüchtig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CANTANKEROUS_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CANTANKEROUS_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMMATURE</zType>
+		<Translation>Kindisch</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMMATURE_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMMATURE_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DESPICABLE</zType>
+		<Translation>Verabscheuungswürdig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DESPICABLE_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DESPICABLE_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
 </Root>
