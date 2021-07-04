@@ -22,7 +22,7 @@
 
 - it is planned to add more traits in the foreseeable future
 
-- Remember that you can press F( ingame and search for those traits to see their info!
+- Remember that you can press F8 ingame and search for those traits to see their info!
 
 <br><br><br>
 - Feedback is very welcome!
