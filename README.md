@@ -20,7 +20,7 @@
 
 - Most of the "gain" trait texts are yet to be translated - they will be added shortly
 
-- it is planned to add more traits in the foreseeable future
+- It is planned to add more traits in the foreseeable future (already working on the next ones)
 
 - Partial german translation included
 
