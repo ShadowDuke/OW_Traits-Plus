@@ -32,4 +32,5 @@
 
 <br><br><br>
 - Feedback is very welcome!
+- Compatible with all my mods
 
