@@ -19,11 +19,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDWORKING_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is a {1_trait} person.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDWORKING_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{0_character} is always hard at work, {masculine_0:he:she} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INDEPENDENT</zType>
@@ -35,7 +35,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INDEPENDENT_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{0_character} is doing what {masculine_0:he:she} wants, not letting others influence {masculine_0:him:her}, {0_character} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH</zType>
@@ -43,35 +43,35 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is always thinking of nothing but {masculine_0:himself:herself}, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} is a {1_trait} person!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE</zType>
-		<English>Responsible</English>
+		<English>Responsibly</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is in charge of a big project, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} is responsible for a lot of important things and is now {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM</zType>
-		<English>Responsible</English>
+		<English>Calm</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>Theres nothing that can trouble {0_character}, {masculine_0:he:she} is a {1_trait} person.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} is a {1_trait} person!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY</zType>
@@ -79,23 +79,23 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} recently had an accident and parts of his body got deformed, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} likes playing with fire, too bad {0_character} got {masculine_0:his:her} face severely burned and is now {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY</zType>
-		<English>Ugly</English>
+		<English>Pretty</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is good to look at, because {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} is a {1_trait} person!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT</zType>
@@ -103,11 +103,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is vertically challenged, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} was not growing as tall as his friends, {0_character} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM</zType>
@@ -115,11 +115,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} has problems interacting socially and is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} is a {1_trait} person!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE</zType>
@@ -127,11 +127,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} has a lot of interesting ideas, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} was working on something really special, it seems {0_character} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED</zType>
@@ -139,7 +139,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} got a lot of fame over the past few years, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED_GAIN_2</zType>
@@ -151,11 +151,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCEITED_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is the best, the best at everything, and no one better than him, {masculine_0:he:she} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCEITED_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{masculine_0:He:She} thinks no one has nothing on {masculine_0:him:her}, {0_character} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCILIATORY</zType>
@@ -163,11 +163,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCILIATORY_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} does not think {masculine_0:he:she} is above anyone and easily can be forgiving, {0_character} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCILIATORY_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{0_character} recently had a fight with a family member, but things got sorted out nicely, {masculine_0:he:she} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED</zType>
@@ -175,11 +175,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} has already seen the world, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{0_character} knows how to speak properly with foreign people, studiying their culture, {masculine_0:he:she} is {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRAMATIC</zType>
@@ -187,11 +187,11 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRAMATIC_GAIN_1</zType>
-		<English>{0_character} is {1_trait}.</English>
+		<English>{0_character} is always up for making a scene, {masculine_0:he:she} is {1_trait}.</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRAMATIC_GAIN_2</zType>
-		<English>{masculine_0:He:She} is {1_trait}!</English>
+		<English>{0_character} has an urge for {1_trait}!</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FARSIGHTED</zType>
