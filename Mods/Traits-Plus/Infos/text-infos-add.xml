@@ -1,0 +1,48 @@
+<!-- Traits+ (Revan) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_HONEST_NICKNAME</zType>
+		<English>the honest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HARD_WORKING_NICKNAME</zType>
+		<English>the hard worker</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INDEPENDENT_NICKNAME</zType>
+		<English>the independent</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SELFISH_NICKNAME</zType>
+		<English>the selfish</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RESPONSIBLE_NICKNAME</zType>
+		<English>the responsible</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALM_NICKNAME</zType>
+		<English>the calm</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UGLY_NICKNAME</zType>
+		<English>the ugly</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRETTY_NICKNAME</zType>
+		<English>the pretty</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHORT_NICKNAME</zType>
+		<English>the short</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM_NICKNAME</zType>
+		<English>the prim</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMAGINATIVE_NICKNAME</zType>
+		<English>the imaginative</English>
+	</Entry>
+</Root>

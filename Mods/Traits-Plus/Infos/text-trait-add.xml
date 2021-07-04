@@ -1,0 +1,137 @@
+<!-- Traits+ (Revan) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_HONEST</zType>
+		<English>Honest</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HONEST_GAIN_1</zType>
+		<English>Always telling the truth, {0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HONEST_GAIN_2</zType>
+		<English>{0_character} has no problems telling others what {masculine_0:he:she} thinks about them. {masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HARD_WORKING</zType>
+		<English>Hard-working</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INDEPENDENT</zType>
+		<English>Independent</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INDEPENDENT_GAIN_1</zType>
+		<English>{0_character} does not need help to figure things out in this world, {masculine_0:He:She} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INDEPENDENT_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SELFISH</zType>
+		<English>Selfish</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SELFISH_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SELFISH_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RESPONSIBLE</zType>
+		<English>Responsible</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RESPONSIBLE_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RESPONSIBLE_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALM</zType>
+		<English>Responsible</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALM_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALM_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UGLY</zType>
+		<English>Ugly</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UGLY_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT__UGLY_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRETTY</zType>
+		<English>Ugly</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRETTY_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRETTY_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHORT</zType>
+		<English>Short</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHORT_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHORT_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM</zType>
+		<English>Prim</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMAGINATIVE</zType>
+		<English>Imaginative</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMAGINATIVE_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_IMAGINATIVE_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+
+</Root>

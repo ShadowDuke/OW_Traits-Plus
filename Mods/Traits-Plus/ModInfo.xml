@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <displayName>Traits+</displayName>
+  <description> New Traits for Old World</description>
+  <modpicture>traits-plus.png</modpicture>
+  <author>Revan (aka. ShadowDuke)</author>
+  <modioID>1028904</modioID>
+  <modioFileID>0</modioFileID>
+  <modversion />
+  <homepage />
+  <singlePlayer>true</singlePlayer>
+  <multiplayer>true</multiplayer>
+  <modDependencies />
+  <modIncompatibilities />
+</ModInfo>

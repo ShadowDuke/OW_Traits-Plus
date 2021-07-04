@@ -1,0 +1,48 @@
+<!-- Traits+ (Revan) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_TRAIT_HONEST_NICKNAME</zType>
+		<Translation>der Ehrliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_HARD_WORKING_NICKNAME</zType>
+		<Translation>der Fleißige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INDEPENDENT_NICKNAME</zType>
+		<Translation>der Unabhängige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SELFISH_NICKNAME</zType>
+		<Translation>der Egoistische</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RESPONSIBLE_NICKNAME</zType>
+		<Translation>der Verantwortungsvolle</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CALM_NICKNAME</zType>
+		<Translation>der Gelassene</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UGLY_NICKNAME</zType>
+		<Translation>der Hässliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRETTY_NICKNAME</zType>
+		<Translation>der Schöne</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SHORT_NICKNAME</zType>
+		<Translation>der Kleine</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM_NICKNAME</zType>
+		<Translation>der Prüde</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_PRIM_IMAGINATIVE</zType>
+		<Translation>der Einfallsreiche</Translation>
+	</Entry>
+</Root>

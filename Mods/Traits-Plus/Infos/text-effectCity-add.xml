@@ -1,0 +1,48 @@
+<!-- Traits+ (Revan) -->
+
+<Root>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_HONEST_ALL</zType>
+		<English>link(TRAIT_HONEST) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_HARD_WORKING_ALL</zType>
+		<English>link(TRAIT_HARD_WORKING) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INDEPENDENT_ALL</zType>
+		<English>link(TRAIT_INDEPENDENT) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SELFISH_ALL</zType>
+		<English>link(TRAIT_SELFISH) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_RESPONSIBLE_ALL</zType>
+		<English>link(TRAIT_RESPONSIBLE) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CALM_ALL</zType>
+		<English>link(TRAIT_CALM) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_UGLY_ALL</zType>
+		<English>link(TRAIT_UGLY) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PRETTY_ALL</zType>
+		<English>link(TRAIT_PRETTY) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_SHORT_ALL</zType>
+		<English>link(TRAIT_SHORT) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_PRIM_ALL</zType>
+		<English>link(TRAIT_PRIM) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_IMAGINATIVE_ALL</zType>
+		<English>link(TRAIT_IMAGINATIVE) Leader</English>
+	</Entry>
+</Root>
