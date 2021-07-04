@@ -1,13 +1,19 @@
 
-- 15 new traits have been added
+- 21 new traits have been added
    - Calm
    - Conceited
    - Conciliatory
    - Cultured
+   - Dramatic
+   - Farsighted
    - Hard-working
    - Honest
+   - Incorruptible
    - Independent
    - Imaginative
+   - Monotonous
+   - Multifaceted
+   - Outsider
    - Pretty
    - Prim
    - Selfish
