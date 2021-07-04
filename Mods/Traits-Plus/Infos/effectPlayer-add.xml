@@ -8,10 +8,10 @@
 		<EffectCity>EFFECTCITY_TRAIT_HONEST_ALL</EffectCity>
 	</Entry>
 	<Entry>
-		<zType>EFFECTPLAYER_TRAIT_HARD_WORKING</zType>
-		<Name>TEXT_TRAIT_HARD_WORKING</Name>
-		<SourceTrait>TRAIT_HARD_WORKING</SourceTrait>
-		<EffectCity>EFFECTCITY_TRAIT_HARD_WORKING_ALL</EffectCity>
+		<zType>EFFECTPLAYER_TRAIT_HARDWORKING</zType>
+		<Name>TEXT_TRAIT_HARDWORKING</Name>
+		<SourceTrait>TRAIT_HARDWORKING</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_HARDWORKING_ALL</EffectCity>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_INDEPENDENT</zType>
@@ -120,5 +120,53 @@
 		<Name>TEXT_TRAIT_CULTURED</Name>
 		<SourceTrait>TRAIT_CULTURED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_CULTURED_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_DRAMATIC</zType>
+		<Name>TEXT_TRAIT_DRAMATIC</Name>
+		<SourceTrait>TRAIT_DRAMATIC</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_DRAMATIC_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_FARSIGHTED</zType>
+		<Name>TEXT_TRAIT_FARSIGHTED</Name>
+		<SourceTrait>TRAIT_FARSIGHTED</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_FARSIGHTED_ALL</EffectCity>
+		<aiMilitaryKillYield>
+			<Pair>
+				<zIndex>YIELD_TRAINING</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+		</aiMilitaryKillYield>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_OUTSIDER</zType>
+		<Name>TEXT_TRAIT_OUTSIDER</Name>
+		<SourceTrait>TRAIT_OUTSIDER</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_OUTSIDER_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_INCORRUPTIBLE</zType>
+		<Name>TEXT_TRAIT_INCORRUPTIBLE</Name>
+		<SourceTrait>TRAIT_INCORRUPTIBLE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</EffectCity>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_MULTIFACETED</zType>
+		<Name>TEXT_TRAIT_MULTIFACETED</Name>
+		<SourceTrait>TRAIT_MULTIFACETED</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_MULTIFACETED_ALL</EffectCity>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_MONOTONOUS</zType>
+		<Name>TEXT_TRAIT_MONOTONOUS</Name>
+		<SourceTrait>TRAIT_MONOTONOUS</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_MONOTONOUS_ALL</EffectCity>
 	</Entry>
 </Root>

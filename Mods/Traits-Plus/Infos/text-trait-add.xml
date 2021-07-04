@@ -14,15 +14,15 @@
 		<English>{0_character} has no problems telling others what {masculine_0:he:she} thinks about them. {masculine_0:He:She} is {1_trait}!</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING</zType>
-		<English>Hard-working</English>
+		<zType>TEXT_TRAIT_HARDWORKING</zType>
+		<English>Hardworking</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_1</zType>
+		<zType>TEXT_TRAIT_HARDWORKING_GAIN_1</zType>
 		<English>{0_character} is {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_2</zType>
+		<zType>TEXT_TRAIT_HARDWORKING_GAIN_2</zType>
 		<English>{masculine_0:He:She} is {1_trait}!</English>
 	</Entry>
 	<Entry>
@@ -82,7 +82,7 @@
 		<English>{0_character} is {1_trait}.</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT__UGLY_GAIN_2</zType>
+		<zType>TEXT_TRAIT_UGLY_GAIN_2</zType>
 		<English>{masculine_0:He:She} is {1_trait}!</English>
 	</Entry>
 	<Entry>
@@ -179,6 +179,78 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC</zType>
+		<English>Dramatic</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED</zType>
+		<English>Farsighted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER</zType>
+		<English>Outsider</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_GAIN_1</zType>
+		<English>{0_character} is an {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_GAIN_2</zType>
+		<English>{masculine_0:He:She} is an {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE</zType>
+		<English>incorruptible</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED</zType>
+		<English>Multifaceted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS</zType>
+		<English>Multifaceted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_2</zType>
 		<English>{masculine_0:He:She} is {1_trait}!</English>
 	</Entry>
 </Root>

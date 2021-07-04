@@ -24,9 +24,9 @@
 		</aiYieldModifier>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_TRAIT_HARD_WORKING</zType>
-		<Name>TEXT_TRAIT_HARD_WORKING</Name>
-		<SourceTrait>TRAIT_HARD_WORKING</SourceTrait>
+		<zType>EFFECTCITY_TRAIT_HARDWORKING</zType>
+		<Name>TEXT_TRAIT_HARDWORKING</Name>
+		<SourceTrait>TRAIT_HARDWORKING</SourceTrait>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -53,9 +53,9 @@
 		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
-		<zType>EFFECTCITY_TRAIT_HARD_WORKING_ALL</zType>
-		<Name>TEXT_EFFECTCITY_TRAIT_HARD_WORKING_ALL</Name>
-		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_HARD_WORKING</SourceEffectPlayer>
+		<zType>EFFECTCITY_TRAIT_HARDWORKING_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_HARDWORKING_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_HARDWORKING</SourceEffectPlayer>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_CIVICS</zIndex>
@@ -369,13 +369,19 @@
 		<zType>EFFECTCITY_TRAIT_IMAGINATIVE</zType>
 		<Name>TEXT_TRAIT_IMAGINATIVE</Name>
 		<SourceTrait>TRAIT_IMAGINATIVE</SourceTrait>
-		<iDiscipleTrainTimeModifier>-25</iDiscipleTrainTimeModifier>
+		<iDiscipleTrainTimeModifier>-15</iDiscipleTrainTimeModifier>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_SCIENCE</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRate>
+		<aiImprovementClassModifier>
+			<Pair>
+				<zIndex>IMPROVEMENTCLASS_LIBRARY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiImprovementClassModifier>
 		<aaiEffectCityYieldRate>
 			<Pair>
 				<zIndex>EFFECTCITY_SPECIALIST_PHILOSOPHER_1</zIndex>
@@ -399,16 +405,6 @@
 				</SubPair>
 			</Pair>
 		</aaiEffectCityYieldRate>
-		<aiImprovementClassModifier>
-			<Pair>
-				<zIndex>IMPROVEMENTCLASS_LIBRARY</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-			<Pair>
-				<zIndex>SPECIALIST_PHILOSOPHER_1</zIndex>
-				<iValue>20</iValue>
-			</Pair>
-		</aiImprovementClassModifier>
 	</Entry>
 	<Entry>
 		<zType>EFFECTCITY_TRAIT_IMAGINATIVE_ALL</zType>
@@ -585,5 +581,201 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiYieldRateCulture>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_DRAMATIC</zType>
+		<Name>TEXT_TRAIT_DRAMATIC</Name>
+		<SourceTrait>TRAIT_DRAMATIC</SourceTrait>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_2</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>20</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_3</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>30</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_DRAMATIC_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_DRAMATIC_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_DRAMATIC</SourceEffectPlayer>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_1</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_2</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+			<Pair>
+				<zIndex>EFFECTCITY_SPECIALIST_POET_3</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_CULTURE</zSubIndex>
+					<iValue>15</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_FARSIGHTED</zType>
+		<Name>TEXT_TRAIT_FARSIGHTED</Name>
+		<SourceTrait>TRAIT_FARSIGHTED</SourceTrait>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ARCHIVE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>10</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_FARSIGHTED_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_FARSIGHTED_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_FARSIGHTED</SourceEffectPlayer>
+		<aaiEffectCityYieldRate>
+			<Pair>
+				<zIndex>EFFECTCITY_PROJECT_ARCHIVE</zIndex>
+				<SubPair>
+					<zSubIndex>YIELD_SCIENCE</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+				<SubPair>
+					<zSubIndex>YIELD_MONEY</zSubIndex>
+					<iValue>5</iValue>
+				</SubPair>
+			</Pair>
+		</aaiEffectCityYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_OUTSIDER</zType>
+		<Name>TEXT_TRAIT_OUTSIDER</Name>
+		<SourceTrait>TRAIT_OUTSIDER</SourceTrait>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_OUTSIDER_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_OUTSIDER_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_OUTSIDER</SourceEffectPlayer>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MAINTENANCE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_GROWTH</zIndex>
+				<iValue>-5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>YIELD_SCIENCE</zIndex>
+				<iValue>-5</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_INCORRUPTIBLE</zType>
+		<Name>TEXT_TRAIT_INCORRUPTIBLE</Name>
+		<SourceTrait>TRAIT_INCORRUPTIBLE</SourceTrait>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_INCORRUPTIBLE</SourceEffectPlayer>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_MULTIFACETED</zType>
+		<Name>TEXT_TRAIT_MULTIFACETED</Name>
+		<SourceTrait>TRAIT_MULTIFACETED</SourceTrait>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_MULTIFACETED_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_MULTIFACETED_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_MULTIFACETED</SourceEffectPlayer>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_MONOTONOUS</zType>
+		<Name>TEXT_TRAIT_MONOTONOUS</Name>
+		<SourceTrait>TRAIT_MONOTONOUS</SourceTrait>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTCITY_TRAIT_MONOTONOUS_ALL</zType>
+		<Name>TEXT_EFFECTCITY_TRAIT_MONOTONOUS_ALL</Name>
+		<SourceEffectPlayer>EFFECTPLAYER_TRAIT_MONOTONOUS</SourceEffectPlayer>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-10</iValue>
+			</Pair>
+		</aiYieldRate>
 	</Entry>
 </Root>

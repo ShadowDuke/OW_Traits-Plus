@@ -6,8 +6,8 @@
 		<English>the honest</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_NICKNAME</zType>
-		<English>the hard worker</English>
+		<zType>TEXT_TRAIT_HARDWORKING_NICKNAME</zType>
+		<English>the hardworker</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INDEPENDENT_NICKNAME</zType>
@@ -60,5 +60,29 @@
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
 		<English>the cultured</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_NICKNAME</zType>
+		<English>the dramatic</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_NICKNAME</zType>
+		<English>the farsighted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_NICKNAME</zType>
+		<English>the outsider</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_NICKNAME</zType>
+		<English>the incorruptible</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_NICKNAME</zType>
+		<English>the multifaceted</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_NICKNAME</zType>
+		<English>the monotonous</English>
 	</Entry>
 </Root>

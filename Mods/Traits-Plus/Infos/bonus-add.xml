@@ -14,15 +14,15 @@
 		</aeRemoveTraits>
 	</Entry>
 	<Entry>
-		<zType>BONUS_GIVE_TRAIT_HARD_WORKING</zType>
+		<zType>BONUS_GIVE_TRAIT_HARDWORKING</zType>
 		<aeAddTraits>
-			<zValue>TRAIT_HARD_WORKING</zValue>
+			<zValue>TRAIT_HARDWORKING</zValue>
 		</aeAddTraits>
 	</Entry>
 	<Entry>
-		<zType>BONUS_REMOVE_TRAIT_HARD_WORKING</zType>
+		<zType>BONUS_REMOVE_TRAIT_HARDWORKING</zType>
 		<aeRemoveTraits>
-			<zValue>TRAIT_HARD_WORKING</zValue>
+			<zValue>TRAIT_HARDWORKING</zValue>
 		</aeRemoveTraits>
 	</Entry>
 	<Entry>
@@ -179,6 +179,78 @@
 		<zType>BONUS_REMOVE_TRAIT_CULTURED</zType>
 		<aeRemoveTraits>
 			<zValue>TRAIT_CULTURED</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_DRAMATIC</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_DRAMATIC</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_DRAMATIC</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_DRAMATIC</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_FARSIGHTED</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_FARSIGHTED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_FARSIGHTED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_FARSIGHTED</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_OUTSIDER</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_OUTSIDER</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_OUTSIDER</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_OUTSIDER</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_INCORRUPTIBLE</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_INCORRUPTIBLE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_INCORRUPTIBLE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_INCORRUPTIBLE</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_MULTIFACETED</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_MULTIFACETED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_MULTIFACETED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_MULTIFACETED</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_MONOTONOUS</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_MONOTONOUS</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_MONOTONOUS</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_MONOTONOUS</zValue>
 		</aeRemoveTraits>
 	</Entry>
 </Root>

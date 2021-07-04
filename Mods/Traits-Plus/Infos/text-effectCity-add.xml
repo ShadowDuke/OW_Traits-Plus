@@ -6,8 +6,8 @@
 		<English>link(TRAIT_HONEST) Leader</English>
 	</Entry>
 	<Entry>
-		<zType>TEXT_EFFECTCITY_TRAIT_HARD_WORKING_ALL</zType>
-		<English>link(TRAIT_HARD_WORKING) Leader</English>
+		<zType>TEXT_EFFECTCITY_TRAIT_HARDWORKING_ALL</zType>
+		<English>link(TRAIT_HARDWORKING) Leader</English>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INDEPENDENT_ALL</zType>
@@ -60,5 +60,29 @@
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CULTURED_ALL</zType>
 		<English>link(TRAIT_CULTURED) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_DRAMATIC_ALL</zType>
+		<English>link(TRAIT_DRAMATIC) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_FARSIGHTED_ALL</zType>
+		<English>link(TRAIT_FARSIGHTED) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_OUTSIDER_ALL</zType>
+		<English>link(TRAIT_OUTSIDER) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</zType>
+		<English>link(TRAIT_INCORRUPTIBLE) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MULTIFACETED_ALL</zType>
+		<English>link(TRAIT_MULTIFACETED) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_MONOTONOUS_ALL</zType>
+		<English>link(TRAIT_MONOTONOUS) Leader</English>
 	</Entry>
 </Root>

@@ -6,7 +6,7 @@
 		<Translation>der Ehrliche</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_NICKNAME</zType>
+		<zType>TEXT_TRAIT_HARDWORKING_NICKNAME</zType>
 		<Translation>der Fleißige</Translation>
 	</Entry>
 	<Entry>
@@ -60,5 +60,29 @@
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
 		<Translation>der Kultivierte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_NICKNAME</zType>
+		<Translation>der Dramatische</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_NICKNAME</zType>
+		<Translation>der Weitsichtige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_NICKNAME</zType>
+		<Translation>der Ausgegrenzte</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_NICKNAME</zType>
+		<Translation>der Unbestechliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_NICKNAME</zType>
+		<Translation>der Vielseitige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_NICKNAME</zType>
+		<Translation>der Eintönige</Translation>
 	</Entry>
 </Root>

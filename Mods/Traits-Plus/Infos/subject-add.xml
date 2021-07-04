@@ -18,17 +18,17 @@
 		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_HARD_WORKING</zType>
+		<zType>SUBJECT_HARDWORKING</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitPrereq>TRAIT_HARD_WORKING</TraitPrereq>
+		<TraitPrereq>TRAIT_HARDWORKING</TraitPrereq>
 <!--	<aeTraitAny>
 			<zValue>TRAIT_</zValue>
 		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
-		<zType>SUBJECT_NOT_HARD_WORKING</zType>
+		<zType>SUBJECT_NOT_HARDWORKING</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
-		<TraitInvalid>TRAIT_HARD_WORKING</TraitInvalid>
+		<TraitInvalid>TRAIT_HARDWORKING</TraitInvalid>
 <!--		<aeTraitNone>
 			<zValue>TRAIT_</zValue>
 		</aeTraitNone>	-->
@@ -237,6 +237,102 @@
 		<zType>SUBJECT_NOT_CULTURED</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_CULTURED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_DRAMATIC</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_DRAMATIC</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_DRAMATIC</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_DRAMATIC</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_FARSIGHTED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_FARSIGHTED</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_FARSIGHTED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_FARSIGHTED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_OUTSIDER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_OUTSIDER</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_OUTSIDER</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_OUTSIDER</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_INCORRUPTIBLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_INCORRUPTIBLE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_INCORRUPTIBLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_INCORRUPTIBLE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MULTIFACETED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MULTIFACETED</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_MULTIFACETED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_MULTIFACETED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_MONOTONOUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_MONOTONOUS</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_MONOTONOUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_MONOTONOUS</TraitInvalid>
 <!--		<aeTraitNone>
 			<zValue>TRAIT_</zValue>
 		</aeTraitNone>	-->

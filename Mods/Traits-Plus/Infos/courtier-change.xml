@@ -29,11 +29,15 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_MULTIFACETED</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_RENOWNED</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
-				<zIndex>TRAIT_HARD_WORKING</zIndex>
+				<zIndex>TRAIT_HARDWORKING</zIndex>
 				<iValue>10</iValue>
 			</Pair>
 			<Pair>
@@ -132,6 +136,18 @@
 			</Pair>
 		</aiRatingRand>
 		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_MULTIFACETED</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_INCORRUPTIBLE</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_FARSIGHTED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>TRAIT_RENOWNED</zIndex>
 				<iValue>10</iValue>
@@ -233,6 +249,14 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_MULTIFACETED</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_INCORRUPTIBLE</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_CULTURED</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -332,6 +356,14 @@
 			</Pair>
 		</aiRatingRand>
 		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_MULTIFACETED</zIndex>
+				<iValue>5</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_FARSIGHTED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>TRAIT_RENOWNED</zIndex>
 				<iValue>10</iValue>

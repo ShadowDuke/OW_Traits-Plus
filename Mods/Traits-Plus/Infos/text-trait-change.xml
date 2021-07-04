@@ -14,15 +14,15 @@
 		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING</zType>
+		<zType>TEXT_TRAIT_HARDWORKING</zType>
 		<Translation>Fleißig</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_1</zType>
+		<zType>TEXT_TRAIT_HARDWORKING_GAIN_1</zType>
 		<Translation>{0_character} is {1_trait}.</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_HARD_WORKING_GAIN_2</zType>
+		<zType>TEXT_TRAIT_HARDWORKING_GAIN_2</zType>
 		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
@@ -179,6 +179,78 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC</zType>
+		<Translation>Dramatisch</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_DRAMATIC_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED</zType>
+		<Translation>Weitsichtig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_FARSIGHTED_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER</zType>
+		<Translation>Ausgegrenzt</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_GAIN_1</zType>
+		<Translation>{0_character} is an {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_OUTSIDER_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is an {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE</zType>
+		<Translation>Unbestechlich</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_INCORRUPTIBLE_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED</zType>
+		<Translation>Vielseitig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MULTIFACETED_GAIN_2</zType>
+		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS</zType>
+		<Translation>Eintönig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_1</zType>
+		<Translation>{0_character} is {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_2</zType>
 		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
 	</Entry>
 </Root>

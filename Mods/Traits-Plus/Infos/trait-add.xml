@@ -36,20 +36,20 @@
 		</aePositiveRating>
 	</Entry>
 	<Entry>
-		<zType>TRAIT_HARD_WORKING</zType>
-		<Name>TEXT_TRAIT_HARD_WORKING</Name>
-		<Nickname>TEXT_TRAIT_HARD_WORKING_NICKNAME</Nickname>
+		<zType>TRAIT_HARDWORKING</zType>
+		<Name>TEXT_TRAIT_HARDWORKING</Name>
+		<Nickname>TEXT_TRAIT_HARDWORKING_NICKNAME</Nickname>
 		<GainTexts>
-			<zValue>TEXT_TRAIT_HARD_WORKING_GAIN_1</zValue>
-			<zValue>TEXT_TRAIT_HARD_WORKING_GAIN_2</zValue>
+			<zValue>TEXT_TRAIT_HARDWORKING_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_HARDWORKING_GAIN_2</zValue>
 		</GainTexts>
 		<iMinAge>15</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iOpinionSame>20</iOpinionSame>
 		<bStrength>1</bStrength>
 		<bUpgrade>1</bUpgrade>
-		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_HARD_WORKING</LeaderEffectPlayer>
-		<GovernorEffectCity>EFFECTCITY_TRAIT_HARD_WORKING</GovernorEffectCity>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_HARDWORKING</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_HARDWORKING</GovernorEffectCity>
 		<aiRating>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
@@ -79,8 +79,7 @@
 		</GainTexts>
 		<iMinAge>18</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
-		<iOpinionSame>20</iOpinionSame>
-		<bStrength>1</bStrength>
+		<iOpinionSame>30</iOpinionSame>
 		<bUpgrade>1</bUpgrade>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_INDEPENDENT</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_INDEPENDENT</GovernorEffectCity>
@@ -93,7 +92,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_LOYAL</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -148,8 +147,7 @@
 		<iMinAge>13</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>20</iOpinionSame>
-		<bStrength>1</bStrength>
+		<iOpinionSame>30</iOpinionSame>
 		<bUpgrade>1</bUpgrade>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_RESPONSIBLE</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_RESPONSIBLE</GovernorEffectCity>
@@ -162,7 +160,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_RUTHLESS</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -183,8 +181,7 @@
 		<iMinAge>11</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>20</iOpinionSame>
-		<bStrength>1</bStrength>
+		<iOpinionSame>30</iOpinionSame>
 		<bUpgrade>1</bUpgrade>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_CALM</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_CALM</GovernorEffectCity>
@@ -197,7 +194,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_INTOLERANT</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -308,8 +305,7 @@
 		<iMinAge>20</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>40</iOpinionSame>
-		<bWeakness>1</bWeakness>
+		<iOpinionSame>30</iOpinionSame>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_PRIM</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_PRIM</GovernorEffectCity>
 		<aiRating>
@@ -321,7 +317,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_AFFABLE</zIndex>
-				<iValue>-40</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -342,8 +338,7 @@
 		<iMinAge>17</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>20</iOpinionSame>
-		<bStrength>1</bStrength>
+		<iOpinionSame>30</iOpinionSame>
 		<bUpgrade>1</bUpgrade>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_IMAGINATIVE</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_IMAGINATIVE</GovernorEffectCity>
@@ -356,7 +351,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_COWARDLY</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -448,8 +443,7 @@
 		<iMinAge>23</iMinAge>
 		<iAdjectiveDie>1</iAdjectiveDie>
 		<iBarbDie>1</iBarbDie>
-		<iOpinionSame>20</iOpinionSame>
-		<bStrength>1</bStrength>
+		<iOpinionSame>30</iOpinionSame>
 		<bUpgrade>1</bUpgrade>
 		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_CONCILIATORY</LeaderEffectPlayer>
 		<GovernorEffectCity>EFFECTCITY_TRAIT_CONCILIATORY</GovernorEffectCity>
@@ -466,7 +460,7 @@
 		<aiTraitOpinion>
 			<Pair>
 				<zIndex>TRAIT_UNCOUTH</zIndex>
-				<iValue>-20</iValue>
+				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
@@ -514,5 +508,235 @@
 		<aePositiveRating>
 			<zValue>RATING_WISDOM</zValue>
 		</aePositiveRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_DRAMATIC</zType>
+		<Name>TEXT_TRAIT_DRAMATIC</Name>
+		<Nickname>TEXT_TRAIT_DRAMATIC_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_DRAMATIC_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_DRAMATIC_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>17</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>30</iOpinionSame>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_DRAMATIC</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_DRAMATIC</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_EXOTIC</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_EXOTIC</zValue>
+		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_FARSIGHTED</zType>
+		<Name>TEXT_TRAIT_FARSIGHTED</Name>
+		<Nickname>TEXT_TRAIT_FARSIGHTED_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_FARSIGHTED_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_FARSIGHTED_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>17</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>20</iOpinionSame>
+		<bStrength>1</bStrength>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_FARSIGHTED</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_FARSIGHTED</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_EXTRAVAGANT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_EXTRAVAGANT</zValue>
+		</aeTraitInvalid>
+		<aePositiveRating>
+			<zValue>RATING_WISDOM</zValue>
+		</aePositiveRating>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_OUTSIDER</zType>
+		<Name>TEXT_TRAIT_OUTSIDER</Name>
+		<Nickname>TEXT_TRAIT_OUTSIDER_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_OUTSIDER_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_OUTSIDER_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>9</iMinAge>
+		<iAdjectiveDie>0</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_OUTSIDER</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_OUTSIDER</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>-2</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_AFFABLE</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_AFFABLE</zValue>
+		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_INCORRUPTIBLE</zType>
+		<Name>TEXT_TRAIT_INCORRUPTIBLE</Name>
+		<Nickname>TEXT_TRAIT_INCORRUPTIBLE_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_INCORRUPTIBLE_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_INCORRUPTIBLE_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>26</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>20</iOpinionSame>
+		<bStrength>1</bStrength>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_INCORRUPTIBLE</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_INCORRUPTIBLE</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_CORRUPT</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_FRUGAL</zIndex>
+				<iValue>20</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_CORRUPT</zValue>
+		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MULTIFACETED</zType>
+		<Name>TEXT_TRAIT_MULTIFACETED</Name>
+		<Nickname>TEXT_TRAIT_MULTIFACETED_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_MULTIFACETED_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_MULTIFACETED_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>20</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>20</iOpinionSame>
+		<bStrength>1</bStrength>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_MULTIFACETED</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_MULTIFACETED</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_MONOTONOUS</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_MONOTONOUS</zValue>
+		</aeTraitInvalid>
+	</Entry>
+	<Entry>
+		<zType>TRAIT_MONOTONOUS</zType>
+		<Name>TEXT_TRAIT_MONOTONOUS</Name>
+		<Nickname>TEXT_TRAIT_MONOTONOUS_NICKNAME</Nickname>
+		<GainTexts>
+			<zValue>TEXT_TRAIT_MONOTONOUS_GAIN_1</zValue>
+			<zValue>TEXT_TRAIT_MONOTONOUS_GAIN_2</zValue>
+		</GainTexts>
+		<iMinAge>20</iMinAge>
+		<iAdjectiveDie>1</iAdjectiveDie>
+		<iBarbDie>1</iBarbDie>
+		<iOpinionSame>40</iOpinionSame>
+		<bWeakness>1</bWeakness>
+		<bUpgrade>1</bUpgrade>
+		<LeaderEffectPlayer>EFFECTPLAYER_TRAIT_MONOTONOUS</LeaderEffectPlayer>
+		<GovernorEffectCity>EFFECTCITY_TRAIT_MONOTONOUS</GovernorEffectCity>
+		<aiRating>
+			<Pair>
+				<zIndex>RATING_DISCIPLINE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_COURAGE</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_WISDOM</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>RATING_CHARISMA</zIndex>
+				<iValue>-1</iValue>
+			</Pair>
+		</aiRating>
+		<aiTraitOpinion>
+			<Pair>
+				<zIndex>TRAIT_MULTIFACETED</zIndex>
+				<iValue>-40</iValue>
+			</Pair>
+		</aiTraitOpinion>
+		<aeTraitInvalid>
+			<zValue>TRAIT_MULTIFACETED</zValue>
+		</aeTraitInvalid>
 	</Entry>
 </Root>
