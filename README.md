@@ -18,7 +18,7 @@
    
 - Interesting new traits with new bonus/penalty (combinations) to reflect those traits
    
-- Ratings, opinions of other traits, weaknes/strength, ratings & traits that are invalid for those traits included, etc. - like in the base game
+- Opinions of other traits, weaknes/strength, ratings & traits that are invalid for those traits included, etc. - like in the base game
 
 - Added some of those traits for Courtier preferences
 
