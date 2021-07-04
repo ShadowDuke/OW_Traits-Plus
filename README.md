@@ -8,7 +8,7 @@
    - Despicable
    - Dramatic
    - Farsighted
-   - Hard-working
+   - Hardworking
    - Honest
    - Incorruptible
    - Independent
