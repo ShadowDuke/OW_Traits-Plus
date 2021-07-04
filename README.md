@@ -1,20 +1,24 @@
 
-- 11 new traits have been added
-   - Honest
-   - Hard-working
-   - Independent
-   - Selfish
-   - Responsible
+- 15 new traits have been added
    - Calm
-   - Ugly
-   - Pretty
-   - Short
-   - Prim
+   - Conceited
+   - Conciliatory
+   - Cultured
+   - Hard-working
+   - Honest
+   - Independent
    - Imaginative
+   - Pretty
+   - Prim
+   - Selfish
+   - Short
+   - Renowned
+   - Responsible
+   - Ugly
    
 - Interesting new traits with new bonus/penalty (combinations) to reflect those traits
    
-- Opinion with other traits, weaknes/strength, ratings & traits that are invalid for those traits included, etc. - like in the base game
+- Ratings, opinions of other traits, weaknes/strength, ratings & traits that are invalid for those traits included, etc. - like in the base game
 
 - Added some of those traits for Courtier preferences
 
