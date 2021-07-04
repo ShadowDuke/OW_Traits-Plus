@@ -45,4 +45,20 @@
 		<zType>TEXT_TRAIT_IMAGINATIVE_NICKNAME</zType>
 		<English>the imaginative</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RENOWNED_NICKNAME</zType>
+		<English>the renowned</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCEITED_NICKNAME</zType>
+		<English>the conceited</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCILIATORY_NICKNAME</zType>
+		<English>the conciliatory</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
+		<English>the cultured</English>
+	</Entry>
 </Root>

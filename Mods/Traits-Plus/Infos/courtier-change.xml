@@ -29,6 +29,10 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_RENOWNED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_HARD_WORKING</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -129,6 +133,10 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_RENOWNED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_RESPONSIBLE</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -225,6 +233,14 @@
 		</aiRatingRand>
 		<aiAdjectiveDie>
 			<Pair>
+				<zIndex>TRAIT_CULTURED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
+				<zIndex>TRAIT_RENOWNED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+			<Pair>
 				<zIndex>TRAIT_RESPONSIBLE</zIndex>
 				<iValue>10</iValue>
 			</Pair>
@@ -316,6 +332,10 @@
 			</Pair>
 		</aiRatingRand>
 		<aiAdjectiveDie>
+			<Pair>
+				<zIndex>TRAIT_RENOWNED</zIndex>
+				<iValue>10</iValue>
+			</Pair>
 			<Pair>
 				<zIndex>TRAIT_IMAGINATIVE</zIndex>
 				<iValue>10</iValue>

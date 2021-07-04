@@ -45,4 +45,20 @@
 		<zType>TEXT_EFFECTCITY_TRAIT_IMAGINATIVE_ALL</zType>
 		<English>link(TRAIT_IMAGINATIVE) Leader</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_RENOWNED_ALL</zType>
+		<English>link(TRAIT_RENOWNED) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CONCEITED_ALL</zType>
+		<English>link(TRAIT_CONCEITED) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CONCILIATORY_ALL</zType>
+		<English>link(TRAIT_CONCILIATORY) Leader</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_EFFECTCITY_TRAIT_CULTURED_ALL</zType>
+		<English>link(TRAIT_CULTURED) Leader</English>
+	</Entry>
 </Root>

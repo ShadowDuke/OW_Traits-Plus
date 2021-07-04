@@ -42,7 +42,23 @@
 		<Translation>der Prüde</Translation>
 	</Entry>
 	<Entry>
-		<zType>TEXT_TRAIT_PRIM_IMAGINATIVE</zType>
+		<zType>TEXT_TRAIT_IMAGINATIVE_NICKNAME</zType>
 		<Translation>der Einfallsreiche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RENOWNED_NICKNAME</zType>
+		<Translation>der Ruhmvolle</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCEITED_NICKNAME</zType>
+		<Translation>der Eingebildete</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCILIATORY_NICKNAME</zType>
+		<Translation>der Versöhnliche</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
+		<Translation>der Kultivierte</Translation>
 	</Entry>
 </Root>

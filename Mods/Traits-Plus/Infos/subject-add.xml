@@ -5,110 +5,240 @@
 		<zType>SUBJECT_HONEST</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_HONEST</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_HONEST</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_HONEST</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_HARD_WORKING</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_HARD_WORKING</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_HARD_WORKING</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_HARD_WORKING</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_INDEPENDENT</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_INDEPENDENT</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_INDEPENDENT</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_INDEPENDENT</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_SELFISH</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SELFISH</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_SELFISH</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_SELFISH</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_RESPONSIBLE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_RESPONSIBLE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_RESPONSIBLE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_RESPONSIBLE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_CALM</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_CALM</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_CALM</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_CALM</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_UGLY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_UGLY</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_UGLY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_UGLY</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PRETTY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_PRETTY</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_PRETTY</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_PRETTY</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_SHORT</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_SHORT</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_SHORT</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_SHORT</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_PRIM</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_PRIM</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_PRIM</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_PRIM</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_IMAGINATIVE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitPrereq>TRAIT_IMAGINATIVE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
 	</Entry>
 	<Entry>
 		<zType>SUBJECT_NOT_IMAGINATIVE</zType>
 		<Class>SUBJECTCLASS_CHARACTER</Class>
 		<TraitInvalid>TRAIT_IMAGINATIVE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_RENOWNED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_RENOWNED</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_RENOWNED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_RENOWNED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CONCEITED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CONCEITED</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_CONCEITED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_CONCEITED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CONCILIATORY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CONCILIATORY</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_CONCILIATORY</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_CONCILIATORY</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_CULTURED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_CULTURED</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_CULTURED</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_CULTURED</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
 	</Entry>
 </Root>

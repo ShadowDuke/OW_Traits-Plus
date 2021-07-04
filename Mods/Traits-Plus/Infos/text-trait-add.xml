@@ -133,5 +133,52 @@
 		<zType>TEXT_TRAIT_IMAGINATIVE_GAIN_2</zType>
 		<English>{masculine_0:He:She} is {1_trait}!</English>
 	</Entry>
-
+	<Entry>
+		<zType>TEXT_TRAIT_RENOWNED</zType>
+		<English>Renowned</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RENOWNED_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RENOWNED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCEITED</zType>
+		<English>Conceited</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCEITED_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCEITED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCILIATORY</zType>
+		<English>Conciliatory</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCILIATORY_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CONCILIATORY_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CULTURED</zType>
+		<English>Cultured</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CULTURED_GAIN_1</zType>
+		<English>{0_character} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_CULTURED_GAIN_2</zType>
+		<English>{masculine_0:He:She} is {1_trait}!</English>
+	</Entry>
 </Root>

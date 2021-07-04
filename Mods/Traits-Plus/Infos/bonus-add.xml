@@ -133,4 +133,52 @@
 			<zValue>TRAIT_IMAGINATIVE</zValue>
 		</aeRemoveTraits>
 	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_RENOWNED</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_RENOWNED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_RENOWNED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_RENOWNED</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_CONCEITED</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_CONCEITED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_CONCEITED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_CONCEITED</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_CONCILIATORY</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_CONCILIATORY</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_CONCILIATORY</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_CONCILIATORY</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_CULTURED</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_CULTURED</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_CULTURED</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_CULTURED</zValue>
+		</aeRemoveTraits>
+	</Entry>
 </Root>

@@ -79,4 +79,46 @@
 		<SourceTrait>TRAIT_IMAGINATIVE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_IMAGINATIVE_ALL</EffectCity>
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_RENOWNED</zType>
+		<Name>TEXT_TRAIT_RENOWNED</Name>
+		<SourceTrait>TRAIT_RENOWNED</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_RENOWNED_ALL</EffectCity>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_DISCONTENT</zIndex>
+				<iValue>-30</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CONCEITED</zType>
+		<Name>TEXT_TRAIT_CONCEITED</Name>
+		<SourceTrait>TRAIT_CONCEITED</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_CONCEITED_ALL</EffectCity>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>-20</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CONCILIATORY</zType>
+		<Name>TEXT_TRAIT_CONCILIATORY</Name>
+		<SourceTrait>TRAIT_CONCILIATORY</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_CONCILIATORY_ALL</EffectCity>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_CIVICS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_CULTURED</zType>
+		<Name>TEXT_TRAIT_CULTURED</Name>
+		<SourceTrait>TRAIT_CULTURED</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_CULTURED_ALL</EffectCity>
+	</Entry>
 </Root>
