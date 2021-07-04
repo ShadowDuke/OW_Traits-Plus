@@ -1,9 +1,11 @@
 
-- 21 new traits have been added
+- 26 new traits have been added
    - Calm
+   - Cantankerous
    - Conceited
    - Conciliatory
    - Cultured
+   - Despicable
    - Dramatic
    - Farsighted
    - Hard-working
@@ -11,8 +13,11 @@
    - Incorruptible
    - Independent
    - Imaginative
+   - Immature
+   - Messy
    - Monotonous
    - Multifaceted
+   - Orderly
    - Outsider
    - Pretty
    - Prim
@@ -30,7 +35,7 @@
 
 - Most of the "gain" trait texts are yet to be translated - they will be added shortly
 
-- It is planned to add more traits in the foreseeable future (already working on the next ones)
+- It is possible that more traits will be added in the foreseeable future
 
 - Partial german translation included
 
