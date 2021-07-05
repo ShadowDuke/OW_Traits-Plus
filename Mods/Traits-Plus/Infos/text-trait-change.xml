@@ -47,7 +47,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is a {1_trait} person!</Translation>
+		<Translation>{0_character} is a {1_trait} person!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE</zType>
@@ -59,7 +59,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE_GAIN_2</zType>
-		<Translation>{{masculine_0:He:She} is responsible for a lot of important things and is now {1_trait}!</Translation>
+		<Translation>{0_character} is responsible for a lot of important things and is now {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM</zType>
@@ -71,7 +71,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is a {1_trait} person!</Translation>
+		<Translation>{0_character} is a {1_trait} person!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY</zType>
@@ -95,7 +95,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is a {1_trait} person!</Translation>
+		<Translation>{0_character} is a {1_trait} person!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT</zType>
@@ -119,7 +119,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is a {1_trait} person!</Translation>
+		<Translation>{0_character} is a {1_trait} person!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE</zType>
@@ -143,7 +143,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCEITED</zType>
@@ -203,7 +203,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FARSIGHTED_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OUTSIDER</zType>
@@ -215,7 +215,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OUTSIDER_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is an {1_trait}!</Translation>
+		<Translation>{0_character} is an {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCORRUPTIBLE</zType>
@@ -227,7 +227,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCORRUPTIBLE_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MULTIFACETED</zType>
@@ -239,7 +239,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MULTIFACETED_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONOTONOUS</zType>
@@ -251,7 +251,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONOTONOUS_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORDERLY</zType>
@@ -263,7 +263,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORDERLY_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MESSY</zType>
@@ -275,7 +275,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MESSY_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CANTANKEROUS</zType>
@@ -287,7 +287,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CANTANKEROUS_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMMATURE</zType>
@@ -299,7 +299,7 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMMATURE_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESPICABLE</zType>
@@ -311,6 +311,6 @@
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESPICABLE_GAIN_2</zType>
-		<Translation>{masculine_0:He:She} is {1_trait}!</Translation>
+		<Translation>{0_character} is {1_trait}!</Translation>
 	</Entry>
 </Root>
