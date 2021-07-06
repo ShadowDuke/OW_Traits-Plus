@@ -33,11 +33,9 @@
 
 - Added some of those traits for Courtier preferences
 
-- Most of the "gain" trait texts are yet to be translated - they will be added shortly
-
 - It is possible that more traits will be added in the foreseeable future
 
-- Partial german translation included
+- Full german translation included
 
 - Remember that you can press F8 ingame and search for those traits to see their info!
 
