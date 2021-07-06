@@ -69,7 +69,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>10</iValue>
+				<iValue>5</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -95,7 +95,7 @@
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-30</iValue>
+				<iValue>-10</iValue>
 			</Pair>
 		</aiYieldRate>
 	</Entry>
@@ -146,7 +146,7 @@
 		<iLeaderOpinionChange>5</iLeaderOpinionChange>
 		<aiMilitaryKillYield>
 			<Pair>
-				<zIndex>YIELD_TRAINING</zIndex>
+				<zIndex>YIELD_SCIENCE</zIndex>
 				<iValue>5</iValue>
 			</Pair>
 		</aiMilitaryKillYield>
@@ -216,5 +216,6 @@
 		<SourceTrait>TRAIT_DESPICABLE</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_DESPICABLE_ALL</EffectCity>
 		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
+		<iFamilyOpinionChange>-10</iFamilyOpinionChange>		
 	</Entry>
 </Root>
