@@ -1,5 +1,5 @@
 
-- 26 new traits have been added
+- 30 new traits have been added
    - Calm
    - Cantankerous
    - Conceited
@@ -21,11 +21,15 @@
    - Outsider
    - Pretty
    - Prim
-   - Selfish
-   - Short
+   - Reliable
    - Renowned
    - Responsible
+   - Selfish
+   - Sensual
+   - Short
+   - Treacherous
    - Ugly
+   - Unreliable
    
 - Interesting new traits with new bonus/penalty (combinations) to reflect those traits
    
