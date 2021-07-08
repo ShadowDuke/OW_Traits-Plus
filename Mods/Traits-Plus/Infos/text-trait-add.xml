@@ -313,4 +313,52 @@
 		<zType>TEXT_TRAIT_DESPICABLE_GAIN_2</zType>
 		<English>Disgusting to watch how {0_character} is treating his servants and underlings, {masculine_0:he:she} is {1_trait}!</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE</zType>
+		<English>Unreliable</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_GAIN_1</zType>
+		<English>{0_character} is always coming too late to meetings and is also not known for his punctuality, {masculine_0:he:she} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_GAIN_2</zType>
+		<English>You can't rely on {0_character}, {masculine_0:he:she} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE</zType>
+		<English>Reliable</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_GAIN_1</zType>
+		<English>{0_character} is always coming too soon to meetings and is also known for his punctuality, {masculine_0:he:she} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_GAIN_2</zType>
+		<English>You can always rely on {0_character}, {masculine_0:he:she} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS</zType>
+		<English>Treacherous</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_GAIN_1</zType>
+		<English>You should be careful of {0_character}, {masculine_0:he:she} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_GAIN_2</zType>
+		<English>Always trying to take an advantage, close to stab someone in the back,.. {0_character} is {1_trait}!</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL</zType>
+		<English>Treacherous</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_GAIN_1</zType>
+		<English>{0_character} loves to visit the local brothels, {masculine_0:he:she} is {1_trait}.</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_GAIN_2</zType>
+		<English>{0_character} is never getting enough, {masculine_0:he:she} is {1_trait}!</English>
+	</Entry>
 </Root>

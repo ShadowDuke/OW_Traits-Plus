@@ -105,4 +105,20 @@
 		<zType>TEXT_TRAIT_DESPICABLE_NICKNAME</zType>
 		<Translation>der Verabscheuungswürdige</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_NICKNAME</zType>
+		<Translation>der Unzuverlässige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_NICKNAME</zType>
+		<Translation>der Zuverlässige</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_NICKNAME</zType>
+		<Translation>der Verräterische</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_NICKNAME</zType>
+		<Translation>der Lustvolle</Translation>
+	</Entry>
 </Root>

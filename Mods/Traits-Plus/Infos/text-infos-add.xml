@@ -105,4 +105,20 @@
 		<zType>TEXT_TRAIT_DESPICABLE_NICKNAME</zType>
 		<English>the despicable</English>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_NICKNAME</zType>
+		<English>the unreliable</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_NICKNAME</zType>
+		<English>the reliable</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_NICKNAME</zType>
+		<English>the treacherous</English>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_NICKNAME</zType>
+		<English>the sensual</English>
+	</Entry>
 </Root>

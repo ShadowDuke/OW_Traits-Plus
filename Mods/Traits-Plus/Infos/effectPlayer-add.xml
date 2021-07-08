@@ -218,4 +218,49 @@
 		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
 		<iFamilyOpinionChange>-10</iFamilyOpinionChange>		
 	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_UNRELIABLE</zType>
+		<Name>TEXT_TRAIT_UNRELIABLE</Name>
+		<SourceTrait>TRAIT_UNRELIABLE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_UNRELIABLE_ALL</EffectCity>
+		<iBuildTurnChange>1</iBuildTurnChange>
+		<iLeaderOpinionChange>-10</iLeaderOpinionChange>
+		<iFamilyOpinionChange>-10</iFamilyOpinionChange>
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_RELIABLE</zType>
+		<Name>TEXT_TRAIT_RELIABLE</Name>
+		<SourceTrait>TRAIT_RELIABLE</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_RELIABLE_ALL</EffectCity>
+		<iBuildTurnChange>-1</iBuildTurnChange>
+		<iLeaderOpinionChange>10</iLeaderOpinionChange>
+		<iFamilyOpinionChange>10</iFamilyOpinionChange>	
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_TREACHEROUS</zType>
+		<Name>TEXT_TRAIT_TREACHEROUS</Name>
+		<SourceTrait>TRAIT_TREACHEROUS</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_TREACHEROUS_ALL</EffectCity>
+		<iLeaderOpinionChange>-30</iLeaderOpinionChange>
+		<bRecruitMercenaries>1</bRecruitMercenaries>		
+		<aiWarYield>
+			<Pair>
+				<zIndex>YIELD_ORDERS</zIndex>
+				<iValue>10</iValue>
+			</Pair>
+		</aiWarYield>		
+	</Entry>
+	<Entry>
+		<zType>EFFECTPLAYER_TRAIT_SENSUAL</zType>
+		<Name>TEXT_TRAIT_SENSUAL</Name>
+		<SourceTrait>TRAIT_SENSUAL</SourceTrait>
+		<EffectCity>EFFECTCITY_TRAIT_SENSUAL_ALL</EffectCity>
+		<iFatigueLimitChange>1</iFatigueLimitChange>
+		<aiYieldRate>
+			<Pair>
+				<zIndex>YIELD_MONEY</zIndex>
+				<iValue>50</iValue>
+			</Pair>
+		</aiYieldRate>
+	</Entry>
 </Root>

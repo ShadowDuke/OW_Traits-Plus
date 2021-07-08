@@ -313,4 +313,52 @@
 			<zValue>TRAIT_DESPICABLE</zValue>
 		</aeRemoveTraits>
 	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_UNRELIABLE</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_UNRELIABLE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_UNRELIABLE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_UNRELIABLE</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_RELIABLE</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_RELIABLE</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_RELIABLE</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_RELIABLE</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_TREACHEROUS</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_TREACHEROUS</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_TREACHEROUS</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_TREACHEROUS</zValue>
+		</aeRemoveTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_GIVE_TRAIT_SENSUAL</zType>
+		<aeAddTraits>
+			<zValue>TRAIT_SENSUAL</zValue>
+		</aeAddTraits>
+	</Entry>
+	<Entry>
+		<zType>BONUS_REMOVE_TRAIT_SENSUAL</zType>
+		<aeRemoveTraits>
+			<zValue>TRAIT_SENSUAL</zValue>
+		</aeRemoveTraits>
+	</Entry>
 </Root>

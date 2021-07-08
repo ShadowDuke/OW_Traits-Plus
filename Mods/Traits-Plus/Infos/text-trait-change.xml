@@ -313,4 +313,52 @@
 		<zType>TEXT_TRAIT_DESPICABLE_GAIN_2</zType>
 		<Translation>Widerlich mit ansehen zu müssen wie {0_character} seine Diener und Untergebenen behandelt, {masculine_0:er:sie} ist {1_trait}!</Translation>
 	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE</zType>
+		<Translation>Unzuverlässig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_GAIN_1</zType>
+		<Translation>{0_character} kommt immer zu spät zu Versammlungen und ist auch nicht dafür bekannt, pünktlich zu sein. {masculine_0:Er:Sie} ist {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_UNRELIABLE_GAIN_2</zType>
+		<Translation>Auf {0_character} kann man sich nicht verlassen, {masculine_0:er:sie} ist {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE</zType>
+		<Translation>Zuverlässig</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_GAIN_1</zType>
+		<Translation>{0_character} kommt immer zu früh zu Versammlungen und ist auch dafür bekannt, pünktlich zu sein. {masculine_0:Er:Sie} ist {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_RELIABLE_GAIN_2</zType>
+		<Translation>Auf {0_character} kann man sich immer verlassen, {masculine_0:er:sie} ist {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS</zType>
+		<Translation>Verräterisch</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_GAIN_1</zType>
+		<Translation>Man sollte sich vor {0_character} vorsehen, {masculine_0:er:sie} ist {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_TREACHEROUS_GAIN_2</zType>
+		<Translation>Immer auf der Suche nach einem Vorteil und kurz davor jemandem in den Rücken zu fallen,.. {0_character} ist {1_trait}!</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL</zType>
+		<Translation>Lustvoll</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_GAIN_1</zType>
+		<Translation>{0_character} besucht gerne die örtlichen Bordelle, {masculine_0:er:sie} ist {1_trait}.</Translation>
+	</Entry>
+	<Entry>
+		<zType>TEXT_TRAIT_SENSUAL_GAIN_2</zType>
+		<Translation>{0_character} kriegt niemals genug, {masculine_0:er:sie} ist {1_trait}!</Translation>
+	</Entry>
 </Root>

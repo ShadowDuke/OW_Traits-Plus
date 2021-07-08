@@ -417,4 +417,68 @@
 			<zValue>TRAIT_</zValue>
 		</aeTraitNone>	-->
 	</Entry>
+	<Entry>
+		<zType>SUBJECT_UNRELIABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_UNRELIABLE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_UNRELIABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_UNRELIABLE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_RELIABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_RELIABLE</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_RELIABLE</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_RELIABLE</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_TREACHEROUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_TREACHEROUS</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_TREACHEROUS</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_TREACHEROUS</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_SENSUAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitPrereq>TRAIT_SENSUAL</TraitPrereq>
+<!--	<aeTraitAny>
+			<zValue>TRAIT_</zValue>
+		</aeTraitAny>	-->
+	</Entry>
+	<Entry>
+		<zType>SUBJECT_NOT_SENSUAL</zType>
+		<Class>SUBJECTCLASS_CHARACTER</Class>
+		<TraitInvalid>TRAIT_SENSUAL</TraitInvalid>
+<!--		<aeTraitNone>
+			<zValue>TRAIT_</zValue>
+		</aeTraitNone>	-->
+	</Entry>
 </Root>
