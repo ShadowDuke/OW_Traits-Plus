@@ -853,7 +853,7 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-10</iValue>
+				<iValue>10</iValue>
 			</Pair>
 		</aiYieldModifier>
 		<aaiEffectCityYieldRate>
@@ -873,7 +873,7 @@
 		<aiYieldModifier>
 			<Pair>
 				<zIndex>YIELD_DISCONTENT</zIndex>
-				<iValue>-5</iValue>
+				<iValue>5</iValue>
 			</Pair>
 		</aiYieldModifier>
 	</Entry>
