@@ -350,12 +350,12 @@
 		</aiRating>
 		<aiTraitOpinion>
 			<Pair>
-				<zIndex>TRAIT_COWARDLY</zIndex>
+				<zIndex>TRAIT_TIMID</zIndex>
 				<iValue>-30</iValue>
 			</Pair>
 		</aiTraitOpinion>
 		<aeTraitInvalid>
-			<zValue>TRAIT_COWARDLY</zValue>
+			<zValue>TRAIT_TIMID</zValue>
 		</aeTraitInvalid>
 		<aePositiveRating>
 			<zValue>RATING_WISDOM</zValue>
