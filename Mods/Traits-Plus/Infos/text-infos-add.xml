@@ -2,6 +2,10 @@
 
 <Root>
 	<Entry>
+        <zType>TEXT_LANGUAGE_GERMAN</zType>
+        <de-DE>Deutsch</de-DE>
+    </Entry>
+	<Entry>
 		<zType>TEXT_TRAIT_HONEST_NICKNAME</zType>
 		<en-US>the honest</en-US>
 	</Entry>
