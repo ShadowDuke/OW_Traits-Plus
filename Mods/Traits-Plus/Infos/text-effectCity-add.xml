@@ -3,122 +3,122 @@
 <Root>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_HONEST_ALL</zType>
-		<English>link(TRAIT_HONEST) Leader</English>
+		<en-US>link(TRAIT_HONEST) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_HARDWORKING_ALL</zType>
-		<English>link(TRAIT_HARDWORKING) Leader</English>
+		<en-US>link(TRAIT_HARDWORKING) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INDEPENDENT_ALL</zType>
-		<English>link(TRAIT_INDEPENDENT) Leader</English>
+		<en-US>link(TRAIT_INDEPENDENT) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SELFISH_ALL</zType>
-		<English>link(TRAIT_SELFISH) Leader</English>
+		<en-US>link(TRAIT_SELFISH) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_RESPONSIBLE_ALL</zType>
-		<English>link(TRAIT_RESPONSIBLE) Leader</English>
+		<en-US>link(TRAIT_RESPONSIBLE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CALM_ALL</zType>
-		<English>link(TRAIT_CALM) Leader</English>
+		<en-US>link(TRAIT_CALM) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_UGLY_ALL</zType>
-		<English>link(TRAIT_UGLY) Leader</English>
+		<en-US>link(TRAIT_UGLY) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PRETTY_ALL</zType>
-		<English>link(TRAIT_PRETTY) Leader</English>
+		<en-US>link(TRAIT_PRETTY) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SHORT_ALL</zType>
-		<English>link(TRAIT_SHORT) Leader</English>
+		<en-US>link(TRAIT_SHORT) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_PRIM_ALL</zType>
-		<English>link(TRAIT_PRIM) Leader</English>
+		<en-US>link(TRAIT_PRIM) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_IMAGINATIVE_ALL</zType>
-		<English>link(TRAIT_IMAGINATIVE) Leader</English>
+		<en-US>link(TRAIT_IMAGINATIVE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_RENOWNED_ALL</zType>
-		<English>link(TRAIT_RENOWNED) Leader</English>
+		<en-US>link(TRAIT_RENOWNED) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CONCEITED_ALL</zType>
-		<English>link(TRAIT_CONCEITED) Leader</English>
+		<en-US>link(TRAIT_CONCEITED) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CONCILIATORY_ALL</zType>
-		<English>link(TRAIT_CONCILIATORY) Leader</English>
+		<en-US>link(TRAIT_CONCILIATORY) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CULTURED_ALL</zType>
-		<English>link(TRAIT_CULTURED) Leader</English>
+		<en-US>link(TRAIT_CULTURED) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DRAMATIC_ALL</zType>
-		<English>link(TRAIT_DRAMATIC) Leader</English>
+		<en-US>link(TRAIT_DRAMATIC) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_FARSIGHTED_ALL</zType>
-		<English>link(TRAIT_FARSIGHTED) Leader</English>
+		<en-US>link(TRAIT_FARSIGHTED) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_OUTSIDER_ALL</zType>
-		<English>link(TRAIT_OUTSIDER) Leader</English>
+		<en-US>link(TRAIT_OUTSIDER) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_INCORRUPTIBLE_ALL</zType>
-		<English>link(TRAIT_INCORRUPTIBLE) Leader</English>
+		<en-US>link(TRAIT_INCORRUPTIBLE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MULTIFACETED_ALL</zType>
-		<English>link(TRAIT_MULTIFACETED) Leader</English>
+		<en-US>link(TRAIT_MULTIFACETED) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MONOTONOUS_ALL</zType>
-		<English>link(TRAIT_MONOTONOUS) Leader</English>
+		<en-US>link(TRAIT_MONOTONOUS) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_ORDERLY_ALL</zType>
-		<English>link(TRAIT_ORDERLY) Leader</English>
+		<en-US>link(TRAIT_ORDERLY) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_MESSY_ALL</zType>
-		<English>link(TRAIT_MESSY) Leader</English>
+		<en-US>link(TRAIT_MESSY) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_CANTANKEROUS_ALL</zType>
-		<English>link(TRAIT_CANTANKEROUS) Leader</English>
+		<en-US>link(TRAIT_CANTANKEROUS) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_IMMATURE_ALL</zType>
-		<English>link(TRAIT_IMMATURE) Leader</English>
+		<en-US>link(TRAIT_IMMATURE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_DESPICABLE_ALL</zType>
-		<English>link(TRAIT_DESPICABLE) Leader</English>
+		<en-US>link(TRAIT_DESPICABLE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_UNRELIABLE_ALL</zType>
-		<English>link(TRAIT_UNRELIABLE) Leader</English>
+		<en-US>link(TRAIT_UNRELIABLE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_RELIABLE_ALL</zType>
-		<English>link(TRAIT_RELIABLE) Leader</English>
+		<en-US>link(TRAIT_RELIABLE) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_TREACHEROUS_ALL</zType>
-		<English>link(TRAIT_TREACHEROUS) Leader</English>
+		<en-US>link(TRAIT_TREACHEROUS) Leader</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_EFFECTCITY_TRAIT_SENSUAL_ALL</zType>
-		<English>link(TRAIT_SENSUAL) Leader</English>
+		<en-US>link(TRAIT_SENSUAL) Leader</en-US>
 	</Entry>
 </Root>

@@ -3,122 +3,122 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST_NICKNAME</zType>
-		<English>the honest</English>
+		<en-US>the honest</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDWORKING_NICKNAME</zType>
-		<English>the hardworker</English>
+		<en-US>the hardworker</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INDEPENDENT_NICKNAME</zType>
-		<English>the independent</English>
+		<en-US>the independent</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH_NICKNAME</zType>
-		<English>the selfish</English>
+		<en-US>the selfish</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE_NICKNAME</zType>
-		<English>the responsibly</English>
+		<en-US>the responsibly</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM_NICKNAME</zType>
-		<English>the calm</English>
+		<en-US>the calm</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY_NICKNAME</zType>
-		<English>the ugly</English>
+		<en-US>the ugly</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY_NICKNAME</zType>
-		<English>the pretty</English>
+		<en-US>the pretty</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT_NICKNAME</zType>
-		<English>the short</English>
+		<en-US>the short</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM_NICKNAME</zType>
-		<English>the prim</English>
+		<en-US>the prim</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE_NICKNAME</zType>
-		<English>the imaginative</English>
+		<en-US>the imaginative</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED_NICKNAME</zType>
-		<English>the renowned</English>
+		<en-US>the renowned</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCEITED_NICKNAME</zType>
-		<English>the conceited</English>
+		<en-US>the conceited</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCILIATORY_NICKNAME</zType>
-		<English>the conciliatory</English>
+		<en-US>the conciliatory</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
-		<English>the cultured</English>
+		<en-US>the cultured</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRAMATIC_NICKNAME</zType>
-		<English>the dramatic</English>
+		<en-US>the dramatic</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FARSIGHTED_NICKNAME</zType>
-		<English>the farsighted</English>
+		<en-US>the farsighted</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OUTSIDER_NICKNAME</zType>
-		<English>the outsider</English>
+		<en-US>the outsider</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCORRUPTIBLE_NICKNAME</zType>
-		<English>the incorruptible</English>
+		<en-US>the incorruptible</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MULTIFACETED_NICKNAME</zType>
-		<English>the multifaceted</English>
+		<en-US>the multifaceted</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONOTONOUS_NICKNAME</zType>
-		<English>the monotonous</English>
+		<en-US>the monotonous</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORDERLY_NICKNAME</zType>
-		<English>the orderly</English>
+		<en-US>the orderly</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MESSY_NICKNAME</zType>
-		<English>the messy</English>
+		<en-US>the messy</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CANTANKEROUS_NICKNAME</zType>
-		<English>the cantankerous</English>
+		<en-US>the cantankerous</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMMATURE_NICKNAME</zType>
-		<English>the immature</English>
+		<en-US>the immature</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESPICABLE_NICKNAME</zType>
-		<English>the despicable</English>
+		<en-US>the despicable</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNRELIABLE_NICKNAME</zType>
-		<English>the unreliable</English>
+		<en-US>the unreliable</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RELIABLE_NICKNAME</zType>
-		<English>the reliable</English>
+		<en-US>the reliable</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TREACHEROUS_NICKNAME</zType>
-		<English>the treacherous</English>
+		<en-US>the treacherous</en-US>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SENSUAL_NICKNAME</zType>
-		<English>the sensual</English>
+		<en-US>the sensual</en-US>
 	</Entry>
 </Root>

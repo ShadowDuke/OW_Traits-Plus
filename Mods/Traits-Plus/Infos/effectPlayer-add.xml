@@ -143,13 +143,8 @@
 		<Name>TEXT_TRAIT_FARSIGHTED</Name>
 		<SourceTrait>TRAIT_FARSIGHTED</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_FARSIGHTED_ALL</EffectCity>
+		<EffectUnit>EFFECTUNIT_FARSIGHTED</EffectUnit>
 		<iLeaderOpinionChange>5</iLeaderOpinionChange>
-		<aiMilitaryKillYield>
-			<Pair>
-				<zIndex>YIELD_SCIENCE</zIndex>
-				<iValue>5</iValue>
-			</Pair>
-		</aiMilitaryKillYield>
 	</Entry>
 	<Entry>
 		<zType>EFFECTPLAYER_TRAIT_OUTSIDER</zType>
@@ -255,7 +250,7 @@
 		<Name>TEXT_TRAIT_SENSUAL</Name>
 		<SourceTrait>TRAIT_SENSUAL</SourceTrait>
 		<EffectCity>EFFECTCITY_TRAIT_SENSUAL_ALL</EffectCity>
-		<iFatigueLimitChange>1</iFatigueLimitChange>
+		<EffectUnit>EFFECTUNIT_ROME</EffectUnit>
 		<aiYieldRate>
 			<Pair>
 				<zIndex>YIELD_MONEY</zIndex>

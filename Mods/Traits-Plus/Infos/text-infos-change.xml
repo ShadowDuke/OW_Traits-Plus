@@ -3,122 +3,122 @@
 <Root>
 	<Entry>
 		<zType>TEXT_TRAIT_HONEST_NICKNAME</zType>
-		<Translation>der Ehrliche</Translation>
+		<de-DE>der Ehrliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_HARDWORKING_NICKNAME</zType>
-		<Translation>der Fleißige</Translation>
+		<de-DE>der Fleißige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INDEPENDENT_NICKNAME</zType>
-		<Translation>der Unabhängige</Translation>
+		<de-DE>der Unabhängige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SELFISH_NICKNAME</zType>
-		<Translation>der Egoistische</Translation>
+		<de-DE>der Egoistische</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RESPONSIBLE_NICKNAME</zType>
-		<Translation>der Verantwortungsvolle</Translation>
+		<de-DE>der Verantwortungsvolle</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CALM_NICKNAME</zType>
-		<Translation>der Gelassene</Translation>
+		<de-DE>der Gelassene</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UGLY_NICKNAME</zType>
-		<Translation>der Hässliche</Translation>
+		<de-DE>der Hässliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRETTY_NICKNAME</zType>
-		<Translation>der Schöne</Translation>
+		<de-DE>der Schöne</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SHORT_NICKNAME</zType>
-		<Translation>der Kleine</Translation>
+		<de-DE>der Kleine</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_PRIM_NICKNAME</zType>
-		<Translation>der Prüde</Translation>
+		<de-DE>der Prüde</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMAGINATIVE_NICKNAME</zType>
-		<Translation>der Einfallsreiche</Translation>
+		<de-DE>der Einfallsreiche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RENOWNED_NICKNAME</zType>
-		<Translation>der Ruhmvolle</Translation>
+		<de-DE>der Ruhmvolle</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCEITED_NICKNAME</zType>
-		<Translation>der Eingebildete</Translation>
+		<de-DE>der Eingebildete</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CONCILIATORY_NICKNAME</zType>
-		<Translation>der Versöhnliche</Translation>
+		<de-DE>der Versöhnliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CULTURED_NICKNAME</zType>
-		<Translation>der Kultivierte</Translation>
+		<de-DE>der Kultivierte</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DRAMATIC_NICKNAME</zType>
-		<Translation>der Dramatische</Translation>
+		<de-DE>der Dramatische</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_FARSIGHTED_NICKNAME</zType>
-		<Translation>der Weitsichtige</Translation>
+		<de-DE>der Weitsichtige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_OUTSIDER_NICKNAME</zType>
-		<Translation>der Ausgegrenzte</Translation>
+		<de-DE>der Ausgegrenzte</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_INCORRUPTIBLE_NICKNAME</zType>
-		<Translation>der Unbestechliche</Translation>
+		<de-DE>der Unbestechliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MULTIFACETED_NICKNAME</zType>
-		<Translation>der Vielseitige</Translation>
+		<de-DE>der Vielseitige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MONOTONOUS_NICKNAME</zType>
-		<Translation>der Eintönige</Translation>
+		<de-DE>der Eintönige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_ORDERLY_NICKNAME</zType>
-		<Translation>der Ordentliche</Translation>
+		<de-DE>der Ordentliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_MESSY_NICKNAME</zType>
-		<Translation>der Unordentliche</Translation>
+		<de-DE>der Unordentliche</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_CANTANKEROUS_NICKNAME</zType>
-		<Translation>der Streitsüchtige</Translation>
+		<de-DE>der Streitsüchtige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_IMMATURE_NICKNAME</zType>
-		<Translation>der Kindische</Translation>
+		<de-DE>der Kindische</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_DESPICABLE_NICKNAME</zType>
-		<Translation>der Verabscheuungswürdige</Translation>
+		<de-DE>der Verabscheuungswürdige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_UNRELIABLE_NICKNAME</zType>
-		<Translation>der Unzuverlässige</Translation>
+		<de-DE>der Unzuverlässige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_RELIABLE_NICKNAME</zType>
-		<Translation>der Zuverlässige</Translation>
+		<de-DE>der Zuverlässige</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_TREACHEROUS_NICKNAME</zType>
-		<Translation>der Verräterische</Translation>
+		<de-DE>der Verräterische</de-DE>
 	</Entry>
 	<Entry>
 		<zType>TEXT_TRAIT_SENSUAL_NICKNAME</zType>
-		<Translation>der Lustvolle</Translation>
+		<de-DE>der Lustvolle</de-DE>
 	</Entry>
 </Root>
