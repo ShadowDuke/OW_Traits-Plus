@@ -5,27 +5,20 @@
 		<zType/>
 		<Name/>
 		<zIconName/>
-		<GenderedNames/> <!-- GenderType/TextType First/Second Pairs -->
 		<aiRatingBase/>
 		<aiRatingRand/>
 		<aiAdjectiveDie/>
 		<aiArchetypeDie/>
-		<Nicknames/>
+		<azNicknames/>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SOLDIER</zType>
 		<Name>TEXT_COURTIER_SOLDIER</Name>
 		<zIconName>COURTIER_SOLDIER</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_COURAGE</zIndex>
-				<iValue>2</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
@@ -122,31 +115,18 @@
 				<iValue>20</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SOLDIER_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
+		<azNicknames>
+			<zValue>TEXT_COURTIER_SOLDIER_NICKNAME</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MINISTER</zType>
 		<Name>TEXT_COURTIER_MINISTER</Name>
 		<zIconName>COURTIER_MINISTER</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MINISTER_F</Second>
-			</Pair>
-		</GenderedNames>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_CHARISMA</zIndex>
-				<iValue>2</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
@@ -251,31 +231,18 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_MINISTER_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MINISTER_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
+		<azNicknames>
+			<zValue>TEXT_COURTIER_MINISTER_NICKNAME</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_MERCHANT</zType>
 		<Name>TEXT_COURTIER_MERCHANT</Name>
 		<zIconName>COURTIER_MERCHANT</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_F</Second>
-			</Pair>
-		</GenderedNames>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_DISCIPLINE</zIndex>
-				<iValue>2</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
@@ -372,31 +339,18 @@
 				<iValue>10</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_MERCHANT_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
+		<azNicknames>
+			<zValue>TEXT_COURTIER_MERCHANT_NICKNAME</zValue>
+		</azNicknames>
 	</Entry>
 	<Entry>
 		<zType>COURTIER_SCIENTIST</zType>
 		<Name>TEXT_COURTIER_SCIENTIST</Name>
 		<zIconName>COURTIER_SCIENTIST</zIconName>
-		<GenderedNames>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_F</Second>
-			</Pair>
-		</GenderedNames>
 		<aiRatingBase>
 			<Pair>
 				<zIndex>RATING_WISDOM</zIndex>
-				<iValue>2</iValue>
+				<iValue>3</iValue>
 			</Pair>
 		</aiRatingBase>
 		<aiRatingRand>
@@ -489,15 +443,8 @@
 				<iValue>20</iValue>
 			</Pair>
 		</aiArchetypeDie>
-		<Nicknames>
-			<Pair>
-				<First>GENDER_MALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_NICKNAME</Second>
-			</Pair>
-			<Pair>
-				<First>GENDER_FEMALE</First>
-				<Second>TEXT_COURTIER_SCIENTIST_NICKNAME_F</Second>
-			</Pair>
-		</Nicknames>
+		<azNicknames>
+			<zValue>TEXT_COURTIER_SCIENTIST_NICKNAME</zValue>
+		</azNicknames>
 	</Entry>
 </Root>
